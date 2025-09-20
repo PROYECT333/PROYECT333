@@ -79,7 +79,7 @@ Instructor o capacitador en software y sistemas
     <img src="img/netbeans.png" alt="NetBeans" width="40" />
   </a>
   <a href="https://www.apachefriends.org/es/index.html" target="_blank">
-    <img src="img/xampp.png" alt="NetBeans" width="55" />
+    <img src="img/xampp.png" alt="NetBeans" width="35" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" />
@@ -91,16 +91,19 @@ Instructor o capacitador en software y sistemas
     <img src="img/packet.png" alt="NetBeans" width="45" />
   </a>
   <a href="https://www.odoo.com/es_ES?msockid=3ab1f6e7252c68ee081de0a8245569c3" target="_blank">
-    <img src="img/odoo.png" alt="NetBeans" width="75" />
+    <img src="img/odoo.png" alt="NetBeans" width="90" />
   </a>
   <a href="https://www.oracle.com/mx/" target="_blank">
     <img src="img/oracle.png" alt="NetBeans" width="75" />
   </a>
   <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
-    <img src="img/box.png" alt="NetBeans" width="75" />
+    <img src="img/vbox.png" alt="NetBeans" width="175" />
   </a>
   <a href="https://www.microsoft.com/es-es/microsoft-365/download-office?msockid=3ab1f6e7252c68ee081de0a8245569c3" target="_blank">
-    <img src="img/office.png" alt="NetBeans" width="85" />
+    <img src="img/office.png" alt="NetBeans" width="185" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="img/mysql1.png" alt="NetBeans" width="45" />
   </a>
 </p>
 
