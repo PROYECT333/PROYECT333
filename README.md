@@ -100,10 +100,10 @@ Instructor o capacitador en software y sistemas
     <img src="img/vbox.png" alt="NetBeans" width="175" />
   </a>
   <a href="https://www.microsoft.com/es-es/microsoft-365/download-office?msockid=3ab1f6e7252c68ee081de0a8245569c3" target="_blank">
-    <img src="img/office.png" alt="NetBeans" width="185" />
+    <img src="img/office.png" alt="NetBeans" width="119" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="img/mysqll.png" alt="NetBeans" width="45" />
+    <img src="img/mysqll.png" alt="NetBeans" width="110" />
   </a>
 </p>
 
