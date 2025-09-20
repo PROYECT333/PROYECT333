@@ -88,19 +88,19 @@ Instructor o capacitador en software y sistemas
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
   <a href="https://learningnetwork.cisco.com/s/article/el-software-de-simulacion-cisco-packet-tracer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cisco" />
+    <img src="img/pachet.png" alt="NetBeans" width="55" />
   </a>
   <a href="https://www.odoo.com/es_ES?msockid=3ab1f6e7252c68ee081de0a8245569c3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=odoo" />
+    <img src="img/odoo.png" alt="NetBeans" width="55" />
   </a>
   <a href="https://www.oracle.com/mx/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=oracle" />
+    <img src="img/oracle.png" alt="NetBeans" width="55" />
   </a>
   <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
-    <img src="https://skillicons.dev/icons?i=virtualbox" />
+    <img src="img/virtual.png" alt="NetBeans" width="55" />
   </a>
   <a href="https://www.microsoft.com/es-es/microsoft-365/download-office?msockid=3ab1f6e7252c68ee081de0a8245569c3" target="_blank">
-    <img src="https://skillicons.dev/icons?i=microsoft" />
+    <img src="img/virtual.png" alt="NetBeans" width="55" />
   </a>
 </p>
 
