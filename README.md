@@ -55,15 +55,55 @@ Instructor o capacitador en software y sistemas
   </p>
   <br>
 
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2>Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  <a href="https://www.java.com/es/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://bloodshed-dev-c-plus-plus.uptodown.com/windows" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://bloodshed-dev-c-plus-plus.uptodown.com/windows" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/es/downloads/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+  <a href="https://www.python.org/downloads/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://netbeans.apache.org/front/main/download/index.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netbeans" />
+  </a>
+  <a href="https://www.apachefriends.org/es/index.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=xampp" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://git-scm.com/downloads" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://learningnetwork.cisco.com/s/article/el-software-de-simulacion-cisco-packet-tracer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cisco" />
+  </a>
+  <a href="https://www.odoo.com/es_ES?msockid=3ab1f6e7252c68ee081de0a8245569c3" target="_blank">
+    <img src="https://skillicons.dev/icons?i=odoo" />
+  </a>
+  <a href="https://www.oracle.com/mx/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=oracle" />
+  </a>
+  <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
+    <img src="https://skillicons.dev/icons?i=virtualbox" />
+  </a>
+  <a href="https://www.microsoft.com/es-es/microsoft-365/download-office?msockid=3ab1f6e7252c68ee081de0a8245569c3" target="_blank">
+    <img src="https://skillicons.dev/icons?i=microsoft" />
   </a>
 </p>
-<br>
+
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
