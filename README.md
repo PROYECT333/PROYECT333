@@ -79,7 +79,7 @@ Instructor o capacitador en software y sistemas
     <img src="img/netbeans.png" alt="NetBeans" width="40" />
   </a>
   <a href="https://www.apachefriends.org/es/index.html" target="_blank">
-    <img src="img/apache.png" alt="NetBeans" width="55" />
+    <img src="img/xampp.png" alt="NetBeans" width="55" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" />
@@ -97,7 +97,7 @@ Instructor o capacitador en software y sistemas
     <img src="img/oracle.png" alt="NetBeans" width="75" />
   </a>
   <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">
-    <img src="img/virtual.png" alt="NetBeans" width="75" />
+    <img src="img/box.png" alt="NetBeans" width="75" />
   </a>
   <a href="https://www.microsoft.com/es-es/microsoft-365/download-office?msockid=3ab1f6e7252c68ee081de0a8245569c3" target="_blank">
     <img src="img/office.png" alt="NetBeans" width="85" />
