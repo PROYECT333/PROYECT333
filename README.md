@@ -103,7 +103,7 @@ Instructor o capacitador en software y sistemas
     <img src="img/office.png" alt="NetBeans" width="185" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="img/mysql1.png" alt="NetBeans" width="45" />
+    <img src="img/mysqll.png" alt="NetBeans" width="45" />
   </a>
 </p>
 
