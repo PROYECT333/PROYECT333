@@ -76,10 +76,10 @@ Instructor o capacitador en software y sistemas
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
   <a href="https://netbeans.apache.org/front/main/download/index.html" target="_blank">
-    <img src="img/netbeans.png" alt="NetBeans" width="48" />
+    <img src="img/netbeans.png" alt="NetBeans" width="40" />
   </a>
   <a href="https://www.apachefriends.org/es/index.html" target="_blank">
-    <img src="img/xamp.png" alt="NetBeans" width="40" />
+    <img src="img/apache.png" alt="NetBeans" width="55" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" />
